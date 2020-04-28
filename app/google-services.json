@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693811592569",
+    "firebase_url": "https://fcmexample-11209.firebaseio.com",
+    "project_id": "fcmexample-11209",
+    "storage_bucket": "fcmexample-11209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693811592569:android:e77c6374a963fa955943a8",
+        "android_client_info": {
+          "package_name": "hosco.com.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693811592569-vlqhb5fcuf9p1b6hodghgedudabslaqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hosco.com.fcmexample",
+            "certificate_hash": "e30880be0741a840935ea0d6fc503709c363e69b"
+          }
+        },
+        {
+          "client_id": "693811592569-khot2ncmf4vedbe9r8gnaas3lsc403sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADA68l3t7rL3L9E0QmtArvYU-i9rOT7L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693811592569-khot2ncmf4vedbe9r8gnaas3lsc403sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
